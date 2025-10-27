@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  UserAgeApp
-//
-//  Created by Irina Saf on 2025-10-27.
-//
+
 
 import SwiftUI
 
@@ -37,7 +32,6 @@ struct ContentView: View {
         }
     }
 }
-
 
 #Preview {
     ContentView()

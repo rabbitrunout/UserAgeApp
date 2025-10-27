@@ -1,7 +1,7 @@
 import Foundation
 import FirebaseDatabase
 import SwiftUI
-import Combine 
+import Combine   // ✅ Add this line
 
 struct UserInfo: Identifiable, Codable {
     var id: String
